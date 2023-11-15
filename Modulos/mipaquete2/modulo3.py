@@ -8,5 +8,3 @@ def tabla_infinita():
         for j in range(inicio_t,final_t+1):
             print(f"{i} x {j} = {i*j}")
         print()
-
-tabla_infinita()
